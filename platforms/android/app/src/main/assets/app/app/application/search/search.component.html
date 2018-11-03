@@ -1,0 +1,13 @@
+<ActionBar visibility="collapsed" title="" class="bar-header">
+    <SearchBar hint="Search hint" (textChange)="onTextChanged($event)" 
+    color="white" textFieldHintColor="white"></SearchBar>
+</ActionBar>
+<ScrollView class="page">
+    <ListView class="list-group" [items]="cityData" (itemTap)="OnCitySelect($event)">
+        <ng-template let-item="item">
+            <StackLayout padding="20 0 20 20">
+                    <Label row="0" col="1" [text]="item.name"></Label>
+            </StackLayout>
+        </ng-template>
+    </ListView>
+</ScrollView>

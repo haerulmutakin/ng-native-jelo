@@ -1,0 +1,335 @@
+{ "data": [
+    {
+        "id": 1215501,
+        "name": "Banda Aceh",
+        "country": "ID",
+        "coord": {
+          "lon": 95.343002,
+          "lat": 5.542
+        }
+      },
+      {
+        "id": 1214520,
+        "name": "Medan",
+        "country": "ID",
+        "coord": {
+          "lon": 98.666672,
+          "lat": 3.58333
+        }
+      },
+      {
+        "id": 1633419,
+        "name": "Padang",
+        "country": "ID",
+        "coord": {
+          "lon": 100.354271,
+          "lat": -0.94924
+        }
+      },
+      {
+        "id": 1631761,
+        "name": "Pekanbaru",
+        "country": "ID",
+        "coord": {
+          "lon": 101.449997,
+          "lat": 0.53333
+        }
+      },
+      {
+        "id": 1624863,
+        "name": "Tanjungpinang",
+        "country": "ID",
+        "coord": {
+          "lon": 104.449997,
+          "lat": 0.91667
+        }
+      },
+      {
+        "id": 1642858,
+        "name": "Jambi",
+        "country": "ID",
+        "coord": {
+          "lon": 103.616669,
+          "lat": -1.6
+        }
+      },
+      {
+        "id": 7666359,
+        "name": "Palembang",
+        "country": "ID",
+        "coord": {
+          "lon": 105.264122,
+          "lat": -5.45206
+        }
+      },
+      {
+        "id": 1632654,
+        "name": "Pangkalpinang",
+        "country": "ID",
+        "coord": {
+          "lon": 106.133331,
+          "lat": -2.13333
+        }
+      },
+      {
+        "id": 1649150,
+        "name": "Bengkulu",
+        "country": "ID",
+        "coord": {
+          "lon": 102.265541,
+          "lat": -3.80044
+        }
+      },
+      {
+        "id": 1624917,
+        "name": "Bandarlampung",
+        "country": "ID",
+        "coord": {
+          "lon": 105.258034,
+          "lat": -5.42544
+        }
+      },
+      {
+        "id": 1627549,
+        "name": "Serang",
+        "country": "ID",
+        "coord": {
+          "lon": 106.1502,
+          "lat": -6.1149
+        }
+      },
+    {
+        "id": 1646510,
+        "name": "Cilegong",
+        "country": "ID",
+        "coord": {
+          "lon": 105.998802,
+          "lat": -6.5485
+        }
+    },
+    {
+        "id": 1642911,
+        "name": "Jakarta",
+        "country": "ID",
+        "coord": {
+          "lon": 106.845131,
+          "lat": -6.21462
+        }
+      },
+      {
+        "id": 1650357,
+        "name": "Bandung",
+        "country": "ID",
+        "coord": {
+          "lon": 107.618607,
+          "lat": -6.90389
+        }
+      },
+      {
+        "id": 1649378,
+        "name": "Bekasi",
+        "country": "ID",
+        "coord": {
+          "lon": 106.989601,
+          "lat": -6.2349
+        }
+      },
+      {
+        "id": 1647149,
+        "name": "Ciamis",
+        "country": "ID",
+        "coord": {
+          "lon": 108.353401,
+          "lat": -7.3257
+        }
+      },
+      {
+        "id": 1646170,
+        "name": "Cirebon",
+        "country": "ID",
+        "coord": {
+          "lon": 108.556999,
+          "lat": -6.7063
+        }
+      },
+      {
+        "id": 1627896,
+        "name": "Semarang",
+        "country": "ID",
+        "coord": {
+          "lon": 110.420303,
+          "lat": -6.9932
+        }
+      },
+      {
+        "id": 1621177,
+        "name": "Yogyakarta",
+        "country": "ID",
+        "coord": {
+          "lon": 110.360832,
+          "lat": -7.78278
+        }
+      },
+      {
+        "id": 8018250,
+        "name": "Surabaya",
+        "country": "ID",
+        "coord": {
+          "lon": 108.020897,
+          "lat": -7.0259
+        }
+      },
+      {
+        "id": 1645528,
+        "name": "Denpasar",
+        "country": "ID",
+        "coord": {
+          "lon": 115.216667,
+          "lat": -8.65
+        }
+      },
+      {
+        "id": 1635882,
+        "name": "Mataram",
+        "country": "ID",
+        "coord": {
+          "lon": 116.116669,
+          "lat": -8.58333
+        }
+      },
+      {
+        "id": 2057087,
+        "name": "Kupang",
+        "country": "ID",
+        "coord": {
+          "lon": 123.583328,
+          "lat": -10.16667
+        }
+      },
+      {
+        "id": 1630789,
+        "name": "Pontianak",
+        "country": "ID",
+        "coord": {
+          "lon": 109.333328,
+          "lat": -0.03333
+        }
+      },
+      {
+        "id": 1650213,
+        "name": "Banjarmasin",
+        "country": "ID",
+        "coord": {
+          "lon": 114.591003,
+          "lat": -3.32442
+        }
+      },
+      {
+        "id": 1629001,
+        "name": "Samarinda",
+        "country": "ID",
+        "coord": {
+          "lon": 117.150002,
+          "lat": -0.5
+        }
+      },
+      {
+        "id": 1633118,
+        "name": "Palangkaraya",
+        "country": "ID",
+        "coord": {
+          "lon": 113.833328,
+          "lat": -2.2
+        }
+      },
+      {
+        "id": 1636544,
+        "name": "Manado",
+        "country": "ID",
+        "coord": {
+          "lon": 124.845497,
+          "lat": 1.487
+        }
+      },
+      {
+        "id": 1633034,
+        "name": "Palu",
+        "country": "ID",
+        "coord": {
+          "lon": 119.870697,
+          "lat": -0.8917
+        }
+      },
+      {
+        "id": 1636556,
+        "name": "Mamuju",
+        "country": "ID",
+        "coord": {
+          "lon": 118.888496,
+          "lat": -2.6748
+        }
+      },
+      {
+        "id": 1640344,
+        "name": "Kendari",
+        "country": "ID",
+        "coord": {
+          "lon": 122.498894,
+          "lat": -3.945
+        }
+      },
+      {
+        "id": 1622786,
+        "name": "Makassar",
+        "country": "ID",
+        "coord": {
+          "lon": 119.422096,
+          "lat": -5.14
+        }
+      },
+      {
+        "id": 1643837,
+        "name": "Gorontalo",
+        "country": "ID",
+        "coord": {
+          "lon": 123.059502,
+          "lat": 0.5412
+        }
+      },
+      {
+        "id": 1651531,
+        "name": "Ambon",
+        "country": "ID",
+        "coord": {
+          "lon": 128.181396,
+          "lat": -3.69543
+        }
+      },
+      {
+        "id": 7910925,
+        "name": "Kota Ternate",
+        "country": "ID",
+        "coord": {
+          "lon": 127.366669,
+          "lat": 0.78333
+        }
+      },
+      {
+        "id": 1636308,
+        "name": "Manokwari",
+        "country": "ID",
+        "coord": {
+          "lon": 134.083328,
+          "lat": -0.86667
+        }
+      },
+      {
+        "id": 8017911,
+        "name": "Jayapura",
+        "country": "ID",
+        "coord": {
+          "lon": 108.032204,
+          "lat": -7.352
+        }
+      }
+]}

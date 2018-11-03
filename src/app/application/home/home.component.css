@@ -1,0 +1,56 @@
+/* Add mobile styles for the component here.  */
+.bar-header{
+    color: #fff;
+    background-color: #000080;
+}
+
+.search-bar{
+    background-color: white;
+}
+
+.temp-label{
+    color: white;
+    font-size: 50;
+}
+
+.location-label{
+    color: white;
+    font-size: 28;
+}
+
+.image {
+    width: 120;
+    height: 120;
+}
+
+.temp-min-max-label {
+    horizontal-align: left;
+    text-align: center;
+    color: #fff;
+    font-size: 16;
+}
+
+.another-temp-label{
+    font-size: 12;
+    horizontal-align: center;
+    text-align: center;
+    color: #fff;
+}
+
+.fa {
+    font-family: "FontAwesome";
+    font-size: 30;
+    color: white;
+}
+
+.border-bottom{
+    border-color: white;
+    border-width: 0 0 1 0;
+    margin-bottom: 30;
+    margin-top: 190;
+}
+
+.border{
+    border-color: white;
+    border-width: 0 1 0 0;
+}

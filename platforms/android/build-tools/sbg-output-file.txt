@@ -1,0 +1,1 @@
+/Users/mr.t/Documents/learn-angular-nativescript/ng-nat/platforms/android/app/src/main/java

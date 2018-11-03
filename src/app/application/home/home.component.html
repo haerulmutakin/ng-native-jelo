@@ -1,0 +1,47 @@
+<ActionBar visibility="collapsed" title="" class="bar-header">
+    <ActionItem ios.systemIcon="9" (tap)="onSearchTap()" ios.position="right"
+    android.systemIcon="ic_menu_search"></ActionItem>
+</ActionBar>
+<GridLayout rows="*, auto" style="background-image: url('~/assets/imagebg2.jpg'); background-repeat: no-repeat; background-position: center; background-size: cover;">
+    <StackLayout row="0"  class="border-bottom">
+        <StackLayout>
+            <Image horizontalAlignment="left" src="~/assets/awan.png" class="image"></Image>
+            <Label [text]="location?.name" class="location-label"></Label>
+            <Label [text]="data?.temp + ' C'" class="temp-label"></Label>
+            <Label class="temp-min-max-label">
+                <FormattedString>
+                    <Span [text]="data?.temp_min + ' C      '"></Span>
+                    <Span [text]="data?.temp_max + ' C'" class="bold"></Span>
+                </FormattedString>
+            </Label>
+        </StackLayout>
+    </StackLayout>
+    <GridLayout row="1" height="60" verticalAlignment="bottom" >
+        <GridLayout columns="*, *, *, *" height="60">
+            <GridLayout col="0" class="border">
+                <StackLayout>
+                    <Label text="Malam" class="another-temp-label"></Label>
+                    <Label text="31 C" class="another-temp-label"></Label>
+                </StackLayout>
+            </GridLayout>
+            <GridLayout col="1" class="border">
+                <StackLayout>
+                    <Label text="Dini hari" class="another-temp-label"></Label>
+                    <Label text="31 C" class="another-temp-label"></Label>
+                </StackLayout>
+            </GridLayout>
+            <GridLayout col="2" class="border">
+                <StackLayout>
+                    <Label text="Besok pagi" class="another-temp-label"></Label>
+                    <Label text="31 C" class="another-temp-label"></Label>
+                </StackLayout>
+            </GridLayout>
+            <GridLayout col="3" >
+                <StackLayout>
+                    <Label text="Besok siang" class="another-temp-label"></Label>
+                    <Label text="31 C" class="another-temp-label"></Label>
+                </StackLayout>
+            </GridLayout>
+        </GridLayout>
+    </GridLayout>
+</GridLayout>
